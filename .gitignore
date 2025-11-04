@@ -1,0 +1,23 @@
+# Arduino / embedded
+build/
+*.hex
+*.elf
+*.bin
+*.eep
+*.map
+*.o
+*.d
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python/bytecode
+*.pyc
+
+# Logs
+*.log
